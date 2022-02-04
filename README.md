@@ -2,9 +2,9 @@
 ### Hello, I'm Priscila! 👋
 
 
-🎓 I'm graduating at Multiplatform Software Development<br>
-🌱 I’m currently learning HTML, CSS, JAVASCRIPT, PYTHON, FLASK, MYSQL, BOOTSTRAP<br>
-📫 How to reach me: prialmeida1801@gmail.com
+🎓  I'm graduating at Multiplatform Software Development<br>
+🌱  I’m currently learning HTML, CSS, JAVASCRIPT, PYTHON, FLASK, MYSQL, BOOTSTRAP<br>
+📫  How to reach me: prialmeida1801@gmail.com
 
 
 ![image](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![image](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![image](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
