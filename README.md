@@ -3,7 +3,7 @@
 
 
 🎓  I'm graduating at Multiplatform Software Development<br>
-🌱  I’m currently learning HTML, CSS, JAVASCRIPT, PYTHON, FLASK, MYSQL, BOOTSTRAP<br>
+🌱  I’m currently learning JAVASCRIPT, NODEJS, TYPESCRIPT, REACT, C <br>
 📫  How to reach me: prialmeida1801@gmail.com
 
 
