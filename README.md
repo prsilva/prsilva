@@ -2,21 +2,24 @@
 ### Hello, I'm Priscila! 👋
 
 
-🎓  I'm graduating at Multiplatform Software Development<br>
-🌱  I’m currently learning JAVASCRIPT, NODEJS, TYPESCRIPT, REACT <br>
+🎓  Estudante de Graduação de Tecnologia em Desenvolvimento de Software Multiplataforma<br>
 📫  How to reach me: prialmeida1801@gmail.com
 
 
-![image](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![image](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![image](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/prsilva?cardType=github&theme=tokyonight)](https://git.io/awesome-stats-card)
 
 
+## 💻 Tecnologias que estou estudando e aplicando atualmente: 
 
-<div>
-  <a href="https://github.com/prsilva">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=prsilva&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-<div>
+  - JavaScript
+  - Node.js
+  - AngularJs
+  - React
+  - MongoDB
+  - MySQL
 
-#### ⚡ My social medias  
+
+#### ⚡ Rede Social  
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/priscilasilva1801/)
 [![Instagram](https://img.shields.io/badge/Instagram-e02c6f?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/priscilatuk/?hl=pt-br)
