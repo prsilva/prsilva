@@ -1,6 +1,6 @@
 
 <h1 align="left">Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px"> me chamo Priscila!</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=maykbrito&color=yellow" alt="Profile views" /> </p>
+<p align="left"> 
 
 🎓  Estudante de Graduação Tecnológica em Desenvolvimento de Software Multiplataforma<br>
 📫  Contato: prialmeida1801@gmail.com
@@ -16,8 +16,20 @@
   - Node.js
   - AngularJs
   - React
+  - Typescript
   - MongoDB
-
+  
+  <br>
+  
+ ### 💻 Tecnologias que já tive contato:
+  - HTML5
+  - CSS3
+  - Figma
+  - Python
+  - Flask
+  - Oracle
+  - MySql
+  
 <br>
 
 ### ⚡ Rede Social  
