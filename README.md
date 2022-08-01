@@ -17,10 +17,8 @@
   - AngularJs
   - React
   - MongoDB
-  - MySQL
 
 <br>
-
 
 ### ⚡ Rede Social  
 
