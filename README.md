@@ -14,6 +14,7 @@
 
   - JavaScript
   - Node.js
+  - Java
   - AngularJs
   - React
   - Typescript
