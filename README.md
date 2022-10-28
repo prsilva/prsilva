@@ -18,6 +18,7 @@
   - React
   - Typescript
   - MongoDB
+  - Redis
   
   <br>
   
