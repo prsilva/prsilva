@@ -1,17 +1,16 @@
 
-<h1 align="left">Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px"> me chamo Priscila!</h1>
+<h1 align="left">Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px"> tudo bem? </h1>
 <p align="left"> 
 
-🎓  Estudante de Graduação Tecnológica em Desenvolvimento de Software Multiplataforma<br>
-📫  Contato: prialmeida1801@gmail.com
+🎓  Sou estudante de Graduação Tecnológica em Desenvolvimento de Software Multiplataforma<br>
+📫  Meu contato principal: prialmeida1801@gmail.com
 
 <br>
 
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/prsilva?cardType=github&theme=tokyonight)](https://git.io/awesome-stats-card)
 
 
-## 💻 Tecnologias que estou estudando e aplicando atualmente: 
-
+## 💻 Tecnologias aplicadas atualmente: 
   - JavaScript
   - Node.js
   - Java
@@ -22,14 +21,14 @@
   
   <br>
   
- ### 💻 Tecnologias que já tive contato:
-  - HTML5
-  - CSS3
+ ## 💻 Tecnologias que já tive contato:
   - Figma
   - Python
   - Flask
   - Oracle
   - MySql
+  - Cassandra
+  - Neo4j
   
 <br>
 
