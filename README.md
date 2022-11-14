@@ -32,7 +32,7 @@
   
 <br>
 
-### ⚡ Rede Social  
+## ⚡ Redes Sociais 
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/priscilasilva1801/)
 [![Instagram](https://img.shields.io/badge/Instagram-e02c6f?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/priscilatuk/?hl=pt-br)
