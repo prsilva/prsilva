@@ -11,23 +11,24 @@
 
 
 ## 💻 Tecnologias aplicadas atualmente: 
-  - JavaScript
   - Node.js
   - Java
   - React
+  - NoSql
   - Typescript
   - MongoDB
-  - Redis
   
   <br>
   
  ## 💻 Tecnologias que já tive contato:
   - Figma
   - Python
+  - JavaScript
   - Flask
   - Oracle
   - MySql
   - Cassandra
+  - Redis
   - Neo4j
   
 <br>
