@@ -29,7 +29,7 @@
   - MySql
   - Cassandra
   - Redis
-  - Neo4j
+
   
 <br>
 
