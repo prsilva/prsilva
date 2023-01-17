@@ -1,35 +1,20 @@
-
-<h1 align="left">Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px"> tudo bem? </h1>
-<p align="left"> 
-
-🎓  Sou estudante de Graduação Tecnológica em Desenvolvimento de Software Multiplataforma<br>
-📫  Meu contato principal: prialmeida1801@gmail.com
+🎓  Estudante de Graduação Tecnológica em Análise e Desenvolvimento de Sistemas<br>
+💻  Estagiária Analista de Sistemas | QA Analyst<br> 
+📫  Contato principal: prialmeida1801@gmail.com
 
 <br>
 
-[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/prsilva?cardType=github&theme=tokyonight)](https://git.io/awesome-stats-card)
-
-
-## 💻 Tecnologias aplicadas atualmente: 
-  - Node.js
-  - Java
-  - React
+## 💻 Tecnologias e Competências aplicadas atualmente: 
+  - Jira
+  - Execução de testes
+  - Reporte de Bugs
+  - Metodologia Scrum
+  - HTML5
+  - CSS
+  - SQL
   - NoSql
-  - Typescript
-  - MongoDB
-  
-  <br>
-  
- ## 💻 Tecnologias que já tive contato:
-  - Figma
-  - Python
   - JavaScript
-  - Flask
-  - Oracle
-  - MySql
-  - Cassandra
-  - Redis
-
+  
   
 <br>
 
