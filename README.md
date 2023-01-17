@@ -1,5 +1,5 @@
 🎓  Estudante de Graduação Tecnológica em Análise e Desenvolvimento de Sistemas<br>
-💻  QA Analyst<br> 
+💻  Estagiária QA Analyst<br> 
 📫  Contato principal: prialmeida1801@gmail.com
 
 <br>
