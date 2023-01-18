@@ -11,7 +11,6 @@
   - HTML5
   - CSS
   - SQL
-  - NoSql
   - JavaScript
   
   
