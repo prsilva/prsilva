@@ -4,14 +4,13 @@
 <br>
 
 ## 💻 Tecnologias e Competências aplicadas atualmente: 
+  - Análise de Requisitos
   - Jira
   - Execução de testes
-  - Reporte de Bugs
   - Metodologia Scrum
-  - HTML5
-  - CSS
-  - SQL
-  - JavaScript
+  - Reporte de Bugs
+  - Suporte ao Cliente
+
   
   
 <br>
