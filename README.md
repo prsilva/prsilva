@@ -3,7 +3,7 @@
 
 <br>
 
-## 💻 Tecnologias e Competências aplicadas atualmente: 
+## 💻 Tecnologias e Competências: 
   - Análise de Requisitos
   - Jira
   - Execução de testes
