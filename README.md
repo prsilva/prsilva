@@ -1,21 +1,27 @@
-🎓  Estudante de Graduação Tecnológica em Análise e Desenvolvimento de Sistemas<br>
+🎓  Graduação Tecnológica em Análise e Desenvolvimento de Sistemas<br>
 📫  Contato principal: prialmeida1801@gmail.com
 
 <br>
 
-## 💻 Tecnologias e Competências: 
+## 💻 Tecnologias e Conhecimentos: 
+  - Teste de Sistemas
+  - Suporte ao Cliente
+  - Metodologia Scrum
+  - Gestão da Qualidade
   - Análise de Requisitos
   - Jira
-  - Execução de testes
-  - Metodologia Scrum
-  - Reporte de Bugs
-  - Suporte ao Cliente
+  - Figma
+  - Power BI
+  - HTML5
+  - CSS3
+  - JavaScipt
+  - MySql
 
   
   
 <br>
 
-## ⚡ Redes Sociais 
+## ⚡ Onde me encontrar: 
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/priscilasilva1801/)
 [![Instagram](https://img.shields.io/badge/Instagram-e02c6f?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/priscilatuk/?hl=pt-br)
