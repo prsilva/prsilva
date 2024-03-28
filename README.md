@@ -9,6 +9,7 @@
   - Metodologia Scrum
   - Gestão da Qualidade
   - Análise de Requisitos
+  - Requisitos de Negócio
   - Jira
   - Figma
   - Power BI
