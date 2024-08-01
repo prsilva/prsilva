@@ -2,7 +2,7 @@
 
 Sou formada em Análise e Desenvolvimento de Sistemas pela Universidade Anhembi Morumbi e trabalho há 2 anos com Análise de Sistemas e Testes de Qualidade. 
 
-Possuo habilidades em suporte ao usuário, análise e levantamento de requisitos, metodologias ágeis, execução de testes manuais e adaptabilidade.
+Possuo habilidades em suporte ao usuário, análise e levantamento de requisitos, metodologias ágeis e execução de testes manuais
 
 Tenho como foco aprimorar os conhecimentos e garantir experiencia na área de Quality Assurance com desenvolvimento de software ágil, trabalhado com temas como: automação de testes, integração contínua, testes de performance, TDD, testes de segurança, entre outros. Com o objetivo de evoluir na carreira e me destacar.
 
