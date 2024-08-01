@@ -23,7 +23,7 @@ Tenho como foco aprimorar os conhecimentos e garantir experiencia na área de Qu
 
 ## ⚡ Onde me encontrar: 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/priscilasilva1801/)](https://www.linkedin.com/in/priscilasilva1801/)
-[![Instagram Badge](https://img.shields.io/badge/Instagram-e02c6f?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/priscilatuk/?hl=pt-br)](https://www.instagram.com/priscilatuk/?hl=pt-br)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat-square&labelColor=C13584&logo=instagram&logoColor=white&link=https://www.instagram.com/priscilatuk/)](https://www.instagram.com/priscilatuk/)
 
 Contato principal: prialmeida1801@gmail.com 📫 
 
