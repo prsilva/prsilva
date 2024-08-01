@@ -15,15 +15,15 @@ Tenho como foco aprimorar os conhecimentos e garantir experiencia na área de Qu
   <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" width='50px'/>
 </p>
 
-Frameworks e Metodologias:
-Scrum, Kanban
+### Frameworks e Metodologias:
+- Scrum
+- Kanban
     
 <br>
 
 ## ⚡ Onde me encontrar: 
-
-[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/priscilasilva1801/)
-[![Instagram Badge](https://img.shields.io/badge/Instagram-e02c6f?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/priscilatuk/?hl=pt-br)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/priscilasilva1801/)](https://www.linkedin.com/in/priscilasilva1801/)
+[![Instagram Badge](https://img.shields.io/badge/Instagram-e02c6f?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/priscilatuk/?hl=pt-br)](https://www.instagram.com/priscilatuk/?hl=pt-br)
 
 Contato principal: prialmeida1801@gmail.com 📫 
 
