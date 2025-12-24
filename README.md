@@ -35,7 +35,7 @@ Soft Skills: Responsabilidade, trabalho em equipe e uma visão analítica herdad
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/priscilasilva1801/)](https://www.linkedin.com/in/priscilasilva1801/)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat-square&labelColor=C13584&logo=instagram&logoColor=white&link=https://www.instagram.com/priscilatuk/)](https://www.instagram.com/priscilatuk/)
 
-Contato principal: prialmeida1801@gmail.com 
+E-mail: prialmeida1801@gmail.com 
 
 
   
