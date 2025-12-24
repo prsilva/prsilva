@@ -10,6 +10,12 @@ Foco Atual: Melhoria contínua de processos e foco total na experiência do usu�
 Soft Skills: Responsabilidade, trabalho em equipe e uma visão analítica herdada da administração que fortalece minha atuação em ambientes orientados a resultados.
 
 ### 🎓 Certificações:
+* Accredited Software Testing Fundamentals Certification (AICS® ASTFC) - Asociación Internacional de Calidad de Software
+* Accredited Scrum Fundamentals Certification (AICS® ASTFC) - Asociación Internacional de Calidad de Software
+* Front-End Básico - Centro Paula Souza
+* Design Patterns Básico - Centro Paula Souza
+* Remote Work - Certiprof
+
 
 ### 🛠️ Hard Skills & Ferramentas:
 - Ferramentas: IntelliJ IDEA, Visual Studio Code, Postman API, MySQL, Oracle SQL Developer, Jira, Azure Devops e Git
