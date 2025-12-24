@@ -1,31 +1,35 @@
-## Olá, seja bem vindo (a)! 👋
+## Olá, prazer, sou a Priscila! 👋
 
-Sou formada em Análise e Desenvolvimento de Sistemas pela Universidade Anhembi Morumbi e trabalho há 2 anos com Análise de Sistemas e Testes de Qualidade. 
+Profissional de Qualidade de Software, apaixonada por tecnologia. Atuo em times ágeis com foco na qualidade do software, entregas centradas no usuário e melhoria contínua. Busco evoluir na área de QA, contribuindo para o desenvolvimento de produtos mais eficientes, confiáveis e com alto valor agregado. 
 
-Possuo habilidades em suporte ao usuário, análise e levantamento de requisitos, metodologias ágeis e execução de testes manuais
+### 🔍 Sobre Mim:
+Transição de Carreira: Em 2022, migrei da área administrativa para a TI, trazendo comigo uma bagagem sólida em pensamento crítico, organização e atenção aos detalhes.
 
-Tenho como foco aprimorar os conhecimentos e garantir experiencia na área de Quality Assurance com desenvolvimento de software ágil, trabalhado com temas como: automação de testes, integração contínua, testes de performance, TDD, testes de segurança, entre outros. Com o objetivo de evoluir na carreira e me destacar.
+Foco Atual: Melhoria contínua de processos e foco total na experiência do usuário final.
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=prsilva&count_private=true&show_icons=true&theme=radical" /> </p>
+Soft Skills: Responsabilidade, trabalho em equipe e uma visão analítica herdada da administração que fortalece minha atuação em ambientes orientados a resultados.
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png" width='50px'/>
-  <img src="https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png" width='50px'/>
-  <img src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png" width='50px'/>
-  <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" width='50px'/>
-</p>
+### 🎓 Certificações:
 
-### Frameworks e Metodologias:
-- Scrum
-- Kanban
+### 🛠️ Hard Skills & Ferramentas:
+- Ferramentas: IntelliJ IDEA, Visual Studio Code, Postman API, MySQL, Oracle SQL Developer, Jira, Azure Devops e Git
+- Linguagens (nível básico): Python e JavaScript
+- Automação de Testes (nível básico): Selenium 
+- Metodologias Ágeis: Scrum e Kanban
+- Pacote Office: Word, Excel PowerPoint
+
+### ⚡ Idiomas:
+- Português - nativo
+- Inglês - B1
+- Espanhol – B2
     
 <br>
 
-## ⚡ Onde me encontrar: 
+## 📫 Onde me encontrar: 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/priscilasilva1801/)](https://www.linkedin.com/in/priscilasilva1801/)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat-square&labelColor=C13584&logo=instagram&logoColor=white&link=https://www.instagram.com/priscilatuk/)](https://www.instagram.com/priscilatuk/)
 
-Contato principal: prialmeida1801@gmail.com 📫 
+Contato principal: prialmeida1801@gmail.com 
 
 
   
