@@ -5,6 +5,8 @@ Profissional de Qualidade de Software, apaixonada por tecnologia. Atuo em times 
 ### 🔍 Sobre Mim:
 Transição de Carreira: Em 2022, migrei da área administrativa para a TI, trazendo comigo uma bagagem sólida em pensamento crítico, organização e atenção aos detalhes.
 
+Formação em Análise e Desenvolvimento de Sistemas.
+
 Foco Atual: Melhoria contínua de processos e foco total na experiência do usuário final.
 
 Soft Skills: Responsabilidade, trabalho em equipe e uma visão analítica herdada da administração que fortalece minha atuação em ambientes orientados a resultados.
